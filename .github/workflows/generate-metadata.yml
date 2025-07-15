@@ -36,4 +36,4 @@ jobs:
           NEOCITIES_USERNAME: ${{ secrets.NEOCITIES_USERNAME }}
           NEOCITIES_PASSWORD: ${{ secrets.NEOCITIES_PASSWORD }}
         run: |
-          curl -F "file=@metadata.json;filename=metadata.json" -u "${NEOCITIES_USERNAME}:${NEOCITIES_PASSWORD}" https://neocities.org/api/upload
+          curl -F "metadata.json=@metadata.json" -u "${NEOCITIES_USERNAME}:${NEOCITIES_PASSWORD}" https://neocities.org/api/upload
