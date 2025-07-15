@@ -30,3 +30,10 @@ jobs:
           git commit -m "Auto-update metadata.json"
           git push
         continue-on-error: true
+
+      - name: Upload metadata.json to Neocities
+        env:
+          NEOCITIES_USERNAME: ${{ secrets.NEOCITIES_USERNAME }}
+          NEOCITIES_PASSWORD: ${{ secrets.NEOCITIES_PASSWORD }}
+        run: |
+          curl -F "file=@metadata.json;filename=metadata.json" -u "${NEOCITIES_USERNAME}:${NEOCITIES_PASSWORD}" https://neocities.org/api/upload
