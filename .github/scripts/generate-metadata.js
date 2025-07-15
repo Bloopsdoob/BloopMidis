@@ -47,7 +47,7 @@ walkDir(root, (relPath) => {
   output.push({
     title: path.basename(relPath, '.mid'),
     path: relPath,
-    youtube: youtubeMap[relPath] || ""
+    youtube: youtubeMap[relPath] || "",
 	dependency: existingDependencyMap[relPath] || ""
   });
 });
