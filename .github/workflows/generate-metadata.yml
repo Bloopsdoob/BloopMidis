@@ -1,0 +1,32 @@
+name: Generate Metadata
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Generate metadata.json
+        run: |
+          node .github/scripts/generate-metadata.js
+
+      - name: Commit and push metadata.json
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add metadata.json
+          git commit -m "Auto-update metadata.json"
+          git push
+        continue-on-error: true
