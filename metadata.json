@@ -69,7 +69,7 @@
     "title": "Telamon's Gun",
     "path": "Misc - Originals/Telamon's Gun.mid",
     "youtube": "",
-    "dependency": ""
+    "dependency": "https://www.youtube.com/watch?v=WFp3L_ZPa00"
   },
   {
     "title": "Monitoring",
@@ -290,13 +290,13 @@
   {
     "title": "Ultramarine Rain SCENE 1",
     "path": "Touhou Project/Kubinashi Recollection/Ultramarine Rain SCENE 1.mid",
-    "youtube": "",
+    "youtube": "https://www.youtube.com/watch?v=8JU2jrsiOcs",
     "dependency": ""
   },
   {
     "title": "Ultramarine Rain SCENE 2",
     "path": "Touhou Project/Kubinashi Recollection/Ultramarine Rain SCENE 2.mid",
     "youtube": "",
-    "dependency": ""
+    "dependency": "https://www.youtube.com/watch?v=MyBL5HAfOFQ"
   }
 ]
