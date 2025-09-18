@@ -1,8 +1,26 @@
 [
   {
+    "title": "John Wayford",
+    "path": "Contract Rush DX/John Wayford.mid",
+    "youtube": "",
+    "dependency": ""
+  },
+  {
+    "title": "Target 0",
+    "path": "Contract Rush DX/Target 0.mid",
+    "youtube": "",
+    "dependency": ""
+  },
+  {
     "title": "Black Knife",
     "path": "DELTARUNE/Black Knife.mid",
     "youtube": "https://www.youtube.com/watch?v=8yth6AggT3g",
+    "dependency": ""
+  },
+  {
+    "title": "From Now On",
+    "path": "DELTARUNE/From Now On.mid",
+    "youtube": "",
     "dependency": ""
   },
   {
@@ -261,6 +279,18 @@
     "title": "Tenuous",
     "path": "Super Meat Boy/Super Meat Boy Forever/Tenuous.mid",
     "youtube": "https://www.youtube.com/watch?v=yG_GMs9boXE",
+    "dependency": ""
+  },
+  {
+    "title": "Ultramarine Rain SCENE 1",
+    "path": "Touhou Project/Kubinashi Recollection/Ultramarine Rain SCENE 1.mid",
+    "youtube": "",
+    "dependency": ""
+  },
+  {
+    "title": "Ultramarine Rain SCENE 2",
+    "path": "Touhou Project/Kubinashi Recollection/Ultramarine Rain SCENE 2.mid",
+    "youtube": "",
     "dependency": ""
   }
 ]
