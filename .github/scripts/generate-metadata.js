@@ -15,10 +15,12 @@ if (fs.existsSync(existingMetadataPath)) {
 // Map from file path to YouTube link
 const youtubeMap = {};
 const existingDependencyMap = {};
+const existingHotlinkMap = {};
 existingMetadata.forEach(entry => {
   if (entry.path) {
     youtubeMap[entry.path] = entry.youtube || "";
 	existingDependencyMap[entry.path] = entry.dependency || "";
+	existingHotlinkMap[entry.path] = entry.hotlink || "";
   }
 });
 
@@ -49,6 +51,7 @@ walkDir(root, (relPath) => {
     path: relPath,
     youtube: youtubeMap[relPath] || "",
 	dependency: existingDependencyMap[relPath] || ""
+	hotlink: existingHotlinkMap[relPath] || ""
   });
 });
 
