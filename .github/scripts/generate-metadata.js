@@ -50,7 +50,7 @@ walkDir(root, (relPath) => {
     title: path.basename(relPath, '.mid'),
     path: relPath,
     youtube: youtubeMap[relPath] || "",
-	dependency: existingDependencyMap[relPath] || ""
+	dependency: existingDependencyMap[relPath] || "",
 	hotlink: existingHotlinkMap[relPath] || ""
   });
 });
