@@ -3,300 +3,350 @@
     "title": "John Wayford",
     "path": "Contract Rush DX/John Wayford.mid",
     "youtube": "https://www.youtube.com/watch?v=9BzkpyTebVU",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Target 0",
     "path": "Contract Rush DX/Target 0.mid",
     "youtube": "https://www.youtube.com/watch?v=HOGg59zKbVo",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Black Knife",
     "path": "DELTARUNE/Black Knife.mid",
     "youtube": "https://www.youtube.com/watch?v=8yth6AggT3g",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "From Now On",
     "path": "DELTARUNE/From Now On.mid",
     "youtube": "https://www.youtube.com/watch?v=bb8dtDLHYrE",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "TV WORLD",
     "path": "DELTARUNE/TV WORLD.mid",
     "youtube": "https://www.youtube.com/watch?v=cTGRdsnotPE",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "No Party",
     "path": "Friday Night Funkin/Mario's Madness/No Party.mid",
     "youtube": "https://www.youtube.com/watch?v=XdRoKKZhdxc",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Darnell",
     "path": "Friday Night Funkin/The Full Ass Game/Darnell.mid",
     "youtube": "https://www.youtube.com/watch?v=VOYJ0Avi0tI",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Roses (Pico Mix)",
     "path": "Friday Night Funkin/The Full Ass Game/Roses (Pico Mix).mid",
     "youtube": "https://www.youtube.com/watch?v=6U63IXMkP-E",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Roses",
     "path": "Friday Night Funkin/The Full Ass Game/Roses.mid",
     "youtube": "https://www.youtube.com/watch?v=AiO0p8A2-4I",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Senpai",
     "path": "Friday Night Funkin/The Full Ass Game/Senpai.mid",
     "youtube": "https://www.youtube.com/watch?v=zUNk6E0b45k",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Thorns",
     "path": "Friday Night Funkin/The Full Ass Game/Thorns.mid",
     "youtube": "https://www.youtube.com/watch?v=C1GPJ3vIBlo",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Telamon's Gun",
     "path": "Misc - Originals/Telamon's Gun.mid",
     "youtube": "https://www.youtube.com/watch?v=WFp3L_ZPa00",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Monitoring",
     "path": "Misc - Solos/DECO27/Monitoring.mid",
     "youtube": "https://www.youtube.com/watch?v=E7vHZ84TlT4",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Carpet",
     "path": "Misc - Solos/Toby Fox/Carpet.mid",
     "youtube": "https://www.youtube.com/watch?v=k0LatEV0W6I",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Watery Graves (Horde)",
     "path": "Plants Vs. Zombies/Plants Vs. Zombies/Watery Graves (Horde).mid",
     "youtube": "",
-    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies/Watery Graves.mid"
+    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies/Watery Graves.mid",
+    "hotlink": ""
   },
   {
     "title": "Watery Graves",
     "path": "Plants Vs. Zombies/Plants Vs. Zombies/Watery Graves.mid",
     "youtube": "https://www.youtube.com/watch?v=CuwTlPWWBiQ",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Ancient Egypt (OST)",
     "path": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid",
     "youtube": "https://www.youtube.com/watch?v=4cJAiUWFcxQ",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Choose Your Seeds",
     "path": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Choose Your Seeds.mid",
     "youtube": "",
-    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid"
+    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid",
+    "hotlink": ""
   },
   {
     "title": "Final Wave",
     "path": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Final Wave.mid",
     "youtube": "",
-    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid"
+    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid",
+    "hotlink": ""
   },
   {
     "title": "First Wave",
     "path": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/First Wave.mid",
     "youtube": "",
-    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid"
+    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid",
+    "hotlink": ""
   },
   {
     "title": "Mid Wave",
     "path": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Mid Wave.mid",
     "youtube": "",
-    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid"
+    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid",
+    "hotlink": ""
   },
   {
     "title": "Victory",
     "path": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Victory.mid",
     "youtube": "",
-    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid"
+    "dependency": "Plants Vs. Zombies/Plants Vs. Zombies 2 - It's About Time/Ancient Egypt/Ancient Egypt (OST).mid",
+    "hotlink": ""
   },
   {
     "title": "Funky Battle (OST)",
     "path": "Roblox/Block Tales/Funky Battle (OST).mid",
     "youtube": "https://www.youtube.com/watch?v=1KNvd9caNtM",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Funky Battle (Wrap)",
     "path": "Roblox/Block Tales/Funky Battle (Wrap).mid",
     "youtube": "",
-    "dependency": "Roblox/Block Tales/Funky Battle (OST).mid"
+    "dependency": "Roblox/Block Tales/Funky Battle (OST).mid",
+    "hotlink": ""
   },
   {
     "title": "Komodo Dragon (OST)",
     "path": "Roblox/Block Tales/Komodo Dragon (OST).mid",
     "youtube": "https://www.youtube.com/watch?v=c0wAqs8cF3M",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Komodo Dragon",
     "path": "Roblox/Block Tales/Komodo Dragon.mid",
     "youtube": "",
-    "dependency": "Roblox/Block Tales/Komodo Dragon (OST).mid"
+    "dependency": "Roblox/Block Tales/Komodo Dragon (OST).mid",
+    "hotlink": ""
   },
   {
     "title": "UFO Catcher",
     "path": "Sonic The Hedgehog/Dr. Robotnik's Ring Racers/UFO Catcher.mid",
     "youtube": "https://www.youtube.com/watch?v=VQsmlsaKPnk",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Big Arm (PC Flourish)",
     "path": "Sonic The Hedgehog/Sonic Generations/Sonic Generations (3DS)/Big Arm (PC Flourish).mid",
     "youtube": "",
-    "dependency": "Sonic The Hedgehog/Sonic Generations/Sonic Generations (3DS)/Big Arm.mid"
+    "dependency": "Sonic The Hedgehog/Sonic Generations/Sonic Generations (3DS)/Big Arm.mid",
+    "hotlink": ""
   },
   {
     "title": "Big Arm",
     "path": "Sonic The Hedgehog/Sonic Generations/Sonic Generations (3DS)/Big Arm.mid",
     "youtube": "https://www.youtube.com/watch?v=UxGpLGYSFqw",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Double Take",
     "path": "Sonic The Hedgehog/Sonic Mania/Double Take.mid",
     "youtube": "https://www.youtube.com/watch?v=gu-fd6qSeE4",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Black Bed",
     "path": "Sonic The Hedgehog/Sonic the Fighters/Black Bed.mid",
     "youtube": "https://www.youtube.com/watch?v=uLc2dysp-Nc",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Fire Stone",
     "path": "Sonic The Hedgehog/Sonic the Fighters/Fire Stone.mid",
     "youtube": "https://www.youtube.com/watch?v=5hhqgp8FN8s",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Get Into the Wave",
     "path": "Sonic The Hedgehog/Sonic the Fighters/Get Into the Wave.mid",
     "youtube": "https://www.youtube.com/watch?v=Nkf3noqISTU",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Never Let it Go",
     "path": "Sonic The Hedgehog/Sonic the Fighters/Never Let it Go.mid",
     "youtube": "https://www.youtube.com/watch?v=WH4gQ6kAF9Y",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Try Again",
     "path": "Sonic The Hedgehog/Sonic the Fighters/Try Again.mid",
     "youtube": "https://www.youtube.com/watch?v=jlVL-sO9x3Q",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Ballad of the Burning Squirrel",
     "path": "Super Meat Boy/Super Meat Boy (2010)/Ballad of the Burning Squirrel.mid",
     "youtube": "https://www.youtube.com/watch?v=K3TX9lo1Adw",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Betus Blues",
     "path": "Super Meat Boy/Super Meat Boy (2010)/Betus Blues.mid",
     "youtube": "https://www.youtube.com/watch?v=e4jhUMxi9VE",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Devil 'n Bass",
     "path": "Super Meat Boy/Super Meat Boy (2010)/Devil 'n Bass.mid",
     "youtube": "https://www.youtube.com/watch?v=4aiwnpfYpL0",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Dr Fetus's Castle",
     "path": "Super Meat Boy/Super Meat Boy (2010)/Dr Fetus's Castle.mid",
     "youtube": "https://www.youtube.com/watch?v=fwGg51Y6mUY",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "The Battle of Lil' Slugger",
     "path": "Super Meat Boy/Super Meat Boy (2010)/The Battle of Lil' Slugger.mid",
     "youtube": "https://www.youtube.com/watch?v=8v6MVI_RrSQ",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Bedside Manner",
     "path": "Super Meat Boy/Super Meat Boy (2015)/Bedside Manner.mid",
     "youtube": "https://www.youtube.com/watch?v=gvWWW00pS68",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Coming To A Deli Near You",
     "path": "Super Meat Boy/Super Meat Boy (2015)/Coming To A Deli Near You.mid",
     "youtube": "https://www.youtube.com/watch?v=Y4Bf9KOIrxI",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Doctor's Orders",
     "path": "Super Meat Boy/Super Meat Boy (2015)/Doctor's Orders.mid",
     "youtube": "https://www.youtube.com/watch?v=5qIphTt7PhU",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Hypertension",
     "path": "Super Meat Boy/Super Meat Boy (2015)/Hypertension.mid",
     "youtube": "https://www.youtube.com/watch?v=Wi8l-OREE_8",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Meat Continuum (Ingame)",
     "path": "Super Meat Boy/Super Meat Boy (2015)/Meat Continuum (Ingame).mid",
     "youtube": "",
-    "dependency": "Super Meat Boy/Super Meat Boy (2015)/Meat Continuum (OST).mid"
+    "dependency": "Super Meat Boy/Super Meat Boy (2015)/Meat Continuum (OST).mid",
+    "hotlink": ""
   },
   {
     "title": "Meat Continuum (OST)",
     "path": "Super Meat Boy/Super Meat Boy (2015)/Meat Continuum (OST).mid",
     "youtube": "https://www.youtube.com/watch?v=StocWzQpmRM",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Clutch",
     "path": "Super Meat Boy/Super Meat Boy Forever/Clutch.mid",
     "youtube": "https://www.youtube.com/watch?v=-s_EeJN9aHc",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Tenuous",
     "path": "Super Meat Boy/Super Meat Boy Forever/Tenuous.mid",
     "youtube": "https://www.youtube.com/watch?v=yG_GMs9boXE",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Ultramarine Rain SCENE 1",
     "path": "Touhou Project/Kubinashi Recollection/Ultramarine Rain SCENE 1.mid",
     "youtube": "https://www.youtube.com/watch?v=8JU2jrsiOcs",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   },
   {
     "title": "Ultramarine Rain SCENE 2",
     "path": "Touhou Project/Kubinashi Recollection/Ultramarine Rain SCENE 2.mid",
     "youtube": "https://www.youtube.com/watch?v=MyBL5HAfOFQ",
-    "dependency": ""
+    "dependency": "",
+    "hotlink": ""
   }
 ]
